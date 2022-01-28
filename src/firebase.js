@@ -1,3 +1,5 @@
+import 
+
 const firebaseConfig = {
     apiKey: "AIzaSyBu_-xrJVauNg0gFNSB4ky4aUivtuDvLwA",
     authDomain: "netflix-clone-efcd3.firebaseapp.com",
