@@ -19,6 +19,8 @@ function LoginScreen() {
           </button>
 
           <div className="loginScreen__gradient"/>
+          <div className="loginScreen__fadeouttop"/>
+          <div className="loginScreen__fadeoutbottom"/>
       </div>
 
       <div className="loginScreen__body">
